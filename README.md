@@ -77,7 +77,7 @@ The model predicts heart disease with good accuracy based on training data.
 
 ## 👩‍💻 Author
 
-Ambika
+Ambeshree Koli
 
 ---
 
